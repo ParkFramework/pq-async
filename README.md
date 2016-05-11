@@ -1,6 +1,6 @@
 # pq-async
 
-Run # `./test.php`
+Run `/usr/bin/php ./test.php`
 
 Print
 ```
